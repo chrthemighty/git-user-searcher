@@ -1,0 +1,15 @@
+.users_list {
+    flex-grow: 1;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+  }
+   
+::-webkit-scrollbar-thumb {
+    background: rgba(0,0,0,0.8);
+    border-radius: 6px;
+}

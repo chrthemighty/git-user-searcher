@@ -1,0 +1,22 @@
+.search_bar {
+    min-height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8px;
+    border-bottom: 2px solid black;
+    margin: 30px 0 20px;
+}
+
+.search_bar__icon {
+    margin-left: 8px;
+}
+
+.search_bar__input {
+    min-width: 200px;
+	width: calc(20 * 1vw);
+}
+
+.search_bar__input:focus {
+    outline: none;
+}
