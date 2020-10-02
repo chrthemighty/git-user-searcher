@@ -1,17 +1,17 @@
 export interface User {
-    username: string;
-    avatar: string;
-    following: number;
-    followers: number;
+	username: string
+	avatar: string
+	following: number
+	followers: number
 }
 
 export interface UserSearchResponse {
-    login: string;
+	login: string
 }
 
 export interface UserProfileResponse {
-    login: string;
-    avatar_url: string;
-    followers: number;
-    following: number;
+	login: string
+	avatar_url: string
+	followers: number
+	following: number
 }

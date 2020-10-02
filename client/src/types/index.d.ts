@@ -1,6 +1,6 @@
 interface User {
-    username: string;
-    avatar: string;
-    followers: number;
-    following: number;
+	username: string
+	avatar: string
+	followers: number
+	following: number
 }

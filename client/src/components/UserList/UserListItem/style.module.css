@@ -1,41 +1,41 @@
 .user {
-    display: flex;
-    cursor: pointer;
+	display: flex;
+	cursor: pointer;
 
-    padding: 12px;
-    margin: 4px 0;
-    white-space: nowrap;
+	padding: 12px;
+	margin: 4px 0;
+	white-space: nowrap;
 }
 
 .user:hover {
-    background-color: rgba(0,0,0,.05);
-    border-radius: 6px;
+	background-color: rgba(0, 0, 0, 0.05);
+	border-radius: 6px;
 }
 
 .user__info {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    width: calc(100% - 94px);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	width: calc(100% - 94px);
 }
 
 .user__username {
-    font-weight: 900;
-    overflow: hidden;
-    text-overflow: ellipsis;
+	font-weight: 900;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .user__avatar {
-    width: 60px;
-    margin-right: 12px;
-    height: 60px;
-    border-radius: 100%;
+	width: 60px;
+	margin-right: 12px;
+	height: 60px;
+	border-radius: 100%;
 }
 
 .user__following {
-    font-size: 0.9em;
+	font-size: 0.9em;
 }
 
 .user__followers {
-    font-size: 0.9em;
+	font-size: 0.9em;
 }

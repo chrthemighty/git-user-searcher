@@ -1,5 +1,5 @@
 {
-    "scripts": {
-        "install": "cd client && yarn install && cd ../server && yarn install"
-    }
+	"scripts": {
+		"install": "cd client && yarn install && cd ../server && yarn install"
+	}
 }

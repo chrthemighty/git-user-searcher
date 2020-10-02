@@ -1,7 +1,7 @@
 export enum API {
-    Github = 'https://api.github.com'
+	Github = 'https://api.github.com',
 }
 
 export enum Limit {
-    UsersPerPage = 10
+	UsersPerPage = 10,
 }

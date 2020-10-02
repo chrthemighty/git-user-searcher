@@ -1,7 +1,7 @@
-import React, { Fragment } from 'react';
+import React, { Fragment } from 'react'
 
 interface ErrorProps {
-	text: string;
+	text: string
 }
 
 export const Error: React.FC<ErrorProps> = ({ text }) => {
@@ -9,5 +9,5 @@ export const Error: React.FC<ErrorProps> = ({ text }) => {
 		<Fragment>
 			<p>{text}</p>
 		</Fragment>
-	);
-};
+	)
+}

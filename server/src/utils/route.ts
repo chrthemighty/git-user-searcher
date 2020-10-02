@@ -1,5 +1,5 @@
-import glob from 'glob';
-import express from 'express';
+import glob from 'glob'
+import express from 'express'
 
 /**
  * Registers component's routes
@@ -7,12 +7,12 @@ import express from 'express';
  * @param  {string} cwd - current working directory
  */
 export default (app: express.Application, cwd: string) => {
-    glob('**/*.route.*', { cwd }, (error: Error | null, files: string[]) => {
-        try {
-            if (error) throw error;
-            files.forEach(file => require(`../${file}`).default(app));
-        } catch (error) {
-            return console.log(error.message);
-        }
-    });
+	glob('**/*.route.*', { cwd }, (error: Error | null, files: string[]) => {
+		try {
+			if (error) throw error
+			files.forEach(file => require(`../${file}`).default(app))
+		} catch (error) {
+			return console.log(error.message)
+		}
+	})
 }
