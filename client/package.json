@@ -1,8 +1,5 @@
 {
-	"name": "gitsearch-clientside",
 	"config-overrides-path": "./rewire/override",
-	"version": "0.0.1",
-	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^1.2.31",
 		"@fortawesome/free-solid-svg-icons": "^5.15.0",
