@@ -1,7 +1,9 @@
-import { UserListItem } from '@/components/UserList/UserListItem'
-
 import React from 'react'
-import styles from './style.module.css'
+
+import { UserListItem } from '@/components/UserList/UserListItem/UserListItem'
+import { User } from '@/store/slices/usersSearch/state'
+
+import styles from './UserList.module.css'
 
 interface UserListProps {
 	users: User[]

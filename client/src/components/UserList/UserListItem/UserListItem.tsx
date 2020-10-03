@@ -1,6 +1,8 @@
 import React from 'react'
 
-import styles from './style.module.css'
+import { User } from '@/store/slices/usersSearch/state'
+
+import styles from './UserListItem.module.css'
 
 interface UserListItemProps {
 	data: User

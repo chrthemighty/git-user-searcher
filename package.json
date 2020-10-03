@@ -1,5 +1,5 @@
 {
-	"name": "GitSearch",
+	"name": "git-search",
 	"scripts": {
 		"install-packages": "cd client && yarn install && cd ../server && yarn install",
 		"build-client": "cd client && yarn run build",

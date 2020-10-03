@@ -1,0 +1,16 @@
+.git_search {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 100vh;
+	position: relative;
+	width: calc(25 * 1vw);
+	min-width: 300px;
+}
+
+.git_search__title {
+	text-align: center;
+	font-weight: 900;
+	margin-top: 30px;
+	font-size: 32px;
+}
