@@ -12,13 +12,10 @@ class UserService {
 	searchUsersByUsername = async (query: string | number): Promise<User[]> => {
 		const { data } = await axios.get(`${API.Github}/search/users?q=${query}&per_page=${Limit.UsersPerPage}`)
 		const usernames: string[] = data.items.map((item: UserSearchResponse) => item.login)
-		const responses: { data: UserProfileResponse }[] = await axios.all(
-			usernames.map(username => axios.get(`${API.Github}/users/${username}`))
-		)
+		const requests = usernames.map(username => axios.get(`${API.Github}/users/${username}`))
+		const responses: { data: UserProfileResponse }[] = await axios.all(requests)
 		return responses.map(response => {
-			const {
-				data: { login, avatar_url, followers, following },
-			} = response
+			const { login, avatar_url, followers, following } = response.data;
 			return {
 				username: login,
 				avatar: avatar_url,
