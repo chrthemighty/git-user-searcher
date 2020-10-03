@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tark-test/static/css/main.7e55aa99.chunk.css",
-    "main.js": "/tark-test/static/js/main.7fc2345a.chunk.js",
-    "main.js.map": "/tark-test/static/js/main.7fc2345a.chunk.js.map",
+    "main.js": "/tark-test/static/js/main.d21b81c2.chunk.js",
+    "main.js.map": "/tark-test/static/js/main.d21b81c2.chunk.js.map",
     "runtime-main.js": "/tark-test/static/js/runtime-main.aae2e38e.js",
     "runtime-main.js.map": "/tark-test/static/js/runtime-main.aae2e38e.js.map",
     "static/js/2.1cf91f2c.chunk.js": "/tark-test/static/js/2.1cf91f2c.chunk.js",
     "static/js/2.1cf91f2c.chunk.js.map": "/tark-test/static/js/2.1cf91f2c.chunk.js.map",
     "index.html": "/tark-test/index.html",
-    "precache-manifest.399010300bf0de729c712da7b6278e58.js": "/tark-test/precache-manifest.399010300bf0de729c712da7b6278e58.js",
+    "precache-manifest.467e171e5236b54b81ae076db95ff754.js": "/tark-test/precache-manifest.467e171e5236b54b81ae076db95ff754.js",
     "service-worker.js": "/tark-test/service-worker.js",
     "static/css/main.7e55aa99.chunk.css.map": "/tark-test/static/css/main.7e55aa99.chunk.css.map",
     "static/js/2.1cf91f2c.chunk.js.LICENSE.txt": "/tark-test/static/js/2.1cf91f2c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aae2e38e.js",
     "static/js/2.1cf91f2c.chunk.js",
     "static/css/main.7e55aa99.chunk.css",
-    "static/js/main.7fc2345a.chunk.js"
+    "static/js/main.d21b81c2.chunk.js"
   ]
 }
