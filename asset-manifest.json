@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tark-test/static/css/main.7e55aa99.chunk.css",
-    "main.js": "/tark-test/static/js/main.d21b81c2.chunk.js",
-    "main.js.map": "/tark-test/static/js/main.d21b81c2.chunk.js.map",
+    "main.css": "/tark-test/static/css/main.f362d5e9.chunk.css",
+    "main.js": "/tark-test/static/js/main.114a2c07.chunk.js",
+    "main.js.map": "/tark-test/static/js/main.114a2c07.chunk.js.map",
     "runtime-main.js": "/tark-test/static/js/runtime-main.aae2e38e.js",
     "runtime-main.js.map": "/tark-test/static/js/runtime-main.aae2e38e.js.map",
-    "static/js/2.1cf91f2c.chunk.js": "/tark-test/static/js/2.1cf91f2c.chunk.js",
-    "static/js/2.1cf91f2c.chunk.js.map": "/tark-test/static/js/2.1cf91f2c.chunk.js.map",
+    "static/js/2.03112cf7.chunk.js": "/tark-test/static/js/2.03112cf7.chunk.js",
+    "static/js/2.03112cf7.chunk.js.map": "/tark-test/static/js/2.03112cf7.chunk.js.map",
     "index.html": "/tark-test/index.html",
-    "precache-manifest.467e171e5236b54b81ae076db95ff754.js": "/tark-test/precache-manifest.467e171e5236b54b81ae076db95ff754.js",
+    "precache-manifest.73030139525f6e03ed2355e8f26aac0c.js": "/tark-test/precache-manifest.73030139525f6e03ed2355e8f26aac0c.js",
     "service-worker.js": "/tark-test/service-worker.js",
-    "static/css/main.7e55aa99.chunk.css.map": "/tark-test/static/css/main.7e55aa99.chunk.css.map",
-    "static/js/2.1cf91f2c.chunk.js.LICENSE.txt": "/tark-test/static/js/2.1cf91f2c.chunk.js.LICENSE.txt"
+    "static/css/main.f362d5e9.chunk.css.map": "/tark-test/static/css/main.f362d5e9.chunk.css.map",
+    "static/js/2.03112cf7.chunk.js.LICENSE.txt": "/tark-test/static/js/2.03112cf7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aae2e38e.js",
-    "static/js/2.1cf91f2c.chunk.js",
-    "static/css/main.7e55aa99.chunk.css",
-    "static/js/main.d21b81c2.chunk.js"
+    "static/js/2.03112cf7.chunk.js",
+    "static/css/main.f362d5e9.chunk.css",
+    "static/js/main.114a2c07.chunk.js"
   ]
 }
