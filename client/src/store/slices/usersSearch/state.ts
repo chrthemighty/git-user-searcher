@@ -31,5 +31,5 @@ export const initialState: UsersSearchState = {
 	items: [],
 	text: '',
 	status: UsersSearchStatus.Fulfilled,
-	error: UsersSearchError.None,
+	error: UsersSearchError.EmptyQuery,
 }
