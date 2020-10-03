@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tark-test/static/css/main.7e55aa99.chunk.css",
+    "main.js": "/tark-test/static/js/main.33f377e7.chunk.js",
+    "main.js.map": "/tark-test/static/js/main.33f377e7.chunk.js.map",
+    "runtime-main.js": "/tark-test/static/js/runtime-main.aae2e38e.js",
+    "runtime-main.js.map": "/tark-test/static/js/runtime-main.aae2e38e.js.map",
+    "static/js/2.1cf91f2c.chunk.js": "/tark-test/static/js/2.1cf91f2c.chunk.js",
+    "static/js/2.1cf91f2c.chunk.js.map": "/tark-test/static/js/2.1cf91f2c.chunk.js.map",
+    "index.html": "/tark-test/index.html",
+    "precache-manifest.d9d530b5fca9a68e48fb6009cfe06a39.js": "/tark-test/precache-manifest.d9d530b5fca9a68e48fb6009cfe06a39.js",
+    "service-worker.js": "/tark-test/service-worker.js",
+    "static/css/main.7e55aa99.chunk.css.map": "/tark-test/static/css/main.7e55aa99.chunk.css.map",
+    "static/js/2.1cf91f2c.chunk.js.LICENSE.txt": "/tark-test/static/js/2.1cf91f2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae2e38e.js",
+    "static/js/2.1cf91f2c.chunk.js",
+    "static/css/main.7e55aa99.chunk.css",
+    "static/js/main.33f377e7.chunk.js"
+  ]
+}
