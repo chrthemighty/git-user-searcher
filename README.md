@@ -1,6 +1,6 @@
-# tark-test
+# Git User Searcher
 
-### https://chrthemighty.github.io/tark-test/
+### https://chrthemighty.github.io/git-user-searcher/
 
 ### Installs all packages
 ```
